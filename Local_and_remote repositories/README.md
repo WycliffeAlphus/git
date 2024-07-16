@@ -3,11 +3,11 @@
 Use the command:
 
 ```console
-git clone hello hello_clone
+git clone hello cloned_hello
 ```
 ![](clone.png)
 
-### Show logs for hello_clone
+### Show logs for cloned_hello
 
 ![](log.png)
 
