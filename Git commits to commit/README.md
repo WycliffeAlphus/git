@@ -23,13 +23,14 @@ The output showed that I had untracked files: "hello.sh"
 #### I used the following commands, that is staged and commited the file:
 ```console
 git add hello.sh
-git commit -m "<commit message>"
+
+git commit -m "feat:add hello.sh file"
 ```
 #### Change the content of hello.sh
 ```console
 nano hello.sh
 ```
-I then staged the file and commited the changes. I also confirmed that the working tree is clean:
+I then staged the file and commited the changes. I also confirmed that the working tree is clean
 
 I noticed that the branch name is master, therefore, I changed it to main using the command:
 ```
