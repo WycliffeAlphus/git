@@ -11,13 +11,13 @@ git --version
 ```
 ![](gitversion.png)
 
-To configure git with the email and username use:
+To configure git with the email and username I used:
 ```
-git config --global user.email "youremail@example.com"
+git config --global user.email "wycliffealphus7@gmail.com"
 ```
 
 ```console
-git config --global user.name "Your Name"
+git config --global user.name "wyonyango"
 ````
 
 My machine is already configured, to confirm run the command:
